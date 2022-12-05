@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 
 /**
+ * aplicacion principal
  * @author Eñaut Agirre
  *
  */

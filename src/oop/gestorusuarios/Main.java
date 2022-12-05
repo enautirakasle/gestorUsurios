@@ -9,6 +9,7 @@ import java.io.FileNotFoundException;
  */
 public class Main {
 	/**
+	 * el programa principal que lanza la aplicación
 	 * @param args
 	 * @throws FileNotFoundException 
 	 */
